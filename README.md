@@ -1,10 +1,10 @@
 # 📚 EduFlow — Smart Study Planner
 
-
 EduFlow is a modern, responsive web application designed to help students **organize their study tasks, track progress, and stay focused** on academic goals.  
 Built with **HTML, CSS, and JavaScript**, it provides a smooth and intuitive experience for planning your studies efficiently.
 
 ---
+
 
 ## 🚀 Features
 

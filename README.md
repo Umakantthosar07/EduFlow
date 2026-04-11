@@ -5,7 +5,7 @@ Built with **HTML, CSS, and JavaScript**, it provides a smooth and intuitive exp
 
 ---
 
-
+ 
 ## 🚀 Features
 
 - ✨ **Add and Manage Study Tasks**  

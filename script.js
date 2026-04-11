@@ -103,7 +103,7 @@ function renderTasks() {
           </div>
         </div>
         <div class="task-actions">
-          <button class="btn btn-small" onclick="toggleTask(${task.id})">${task.completed ? "↩️ Undo" : "✅ Done"}</button>
+          <button class="btn btn-small" onclick="toggleTask(${task.id})">${task.completed ? "↩️  Undo" : "✅ Done"}</button>
           <button class="btn btn-small btn-danger" onclick="deleteTask(${task.id})">🗑️ Delete</button>
         </div>
       </div>`;

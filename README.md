@@ -90,6 +90,13 @@ EduFlow/
 
 
 ---
+## 🌐 Live Demo
+
+🚀 **Deployed Application:**  
+👉 https://umakantthosar07.github.io/EduFlow/
+
+---
+
 
 ## 💡 Future Enhancements
 
